@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Keerten👋
 
-<!--
-**KeertenSai/KeertenSai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am an 18 year old who is gaining his roots in being a Developer and a Designer.
 
-Here are some ideas to get you started:
+## 📖Current Experience
+   * 1 Year of Python. 
+   * Getting more experience in Javascript, Typescript, HTML and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✌️About Me
+  * Good with Windows with proficient skills gained from learning powershell and terminal commands.
+  * Learning Javascript, Typescript, HTML, CSS and Python.
+  
+## 📫How to reach me: 
+ * Instagram - keerten_sai
+ * Discord   - Logic#6594
+ * Email     - keertensaipr@gmail.com
+ * Twitter   - KeertenSai
